@@ -37,7 +37,7 @@ c) `<meta viewport>`
 d) `<meta refresh>`
 
 #### 7. Chcesz wyświetlić znak "<" w treści strony internetowej, aby nie został potraktowany jako znacznik HTML. Jakie jest najlepsze rozwiązanie, aby to osiągnąć?
-a) Użyć zapisu <!-- < -->, aby przeglądarka go poprawnie wyświetliła.  
+a) Użyć zapisu `<!-- < -->`, aby przeglądarka go poprawnie wyświetliła.  
 b) Użyć znacznika `<escape>` przed znakiem "<".  
 c) Użyć odpowiedniego encodowania, jak np. `&lt;`, aby przeglądarka wiedziała, że to nie znacznik HTML.  
 d) Wpisać znak "<" podwójnie, aby uniknąć problemu.
